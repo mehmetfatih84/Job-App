@@ -12,7 +12,7 @@
 
 🔐 Güvenlik ve Stabilite: UUID kullanarak eşsiz kimlikler oluşturarak, veri bütünlüğünü sağlıyoruz. Bu da uygulamanın güvenliğini artırır ve kullanıcıların verilerinin doğruluğunu garanti altına alır.
 
-🌐 Katkıya Açık: Proje, MIT Lisansı altında yayınlanmıştır ve katkıları memnuniyetle karşılar. Herkesin geliştirmeye ve projeye katkı sağlamaya açık olduğunu belirtmekten mutluluk duyuyoruz.
+🌐 Katkıya Açık: Proje, katkıları memnuniyetle karşılar. Herkesin geliştirmeye ve projeye katkı sağlamaya açık olduğunu belirtmekten mutluluk duyuyoruz.
 
 🤝 İletişim ve Destek: Eğer bir sorunuz veya geri bildiriminiz varsa, bizimle iletişime geçmekten çekinmeyin. Her türlü soruya ve öneriye açığız ve projenin daha da gelişmesi için elimizden gelen desteği sağlamaktan mutluluk duyarız.
 
